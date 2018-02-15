@@ -246,6 +246,14 @@ Notes:	 Hand coded for Udemy.com
    margin-top: 10px;
 }
 
+#items li a
+{
+   color: white;
+}
+#container1 .container2
+{
+   color: darkblue;
+}
  
 /* --------------------------------------
    Media Queries
@@ -282,6 +290,10 @@ Notes:	 Hand coded for Udemy.com
       font-weight: bold;
       text-align: center;
 
+   }
+   #jumbo
+   {
+      padding: 200px 0px;
    }
 	
 }
